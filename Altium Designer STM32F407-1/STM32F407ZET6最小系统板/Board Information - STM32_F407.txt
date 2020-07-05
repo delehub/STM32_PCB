@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\PCB设计\Altium Designer\Altium Designer --STM32F407最小系统资料\STM32F407ZET6最小系统板\STM32_F407.PcbDoc
+Date         : 2020/2/15
+Time         : 21:07:14
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 380
+    Connections routed, 380
+    Connections remaining, 0
+count : 4
